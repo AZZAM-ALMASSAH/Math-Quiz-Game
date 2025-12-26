@@ -81,7 +81,7 @@ A console-based Math Quiz Game developed in **C++** that tests the user’s arit
 ## 👤 Author
 **Azzam Almassah**
 
----
+
 
 ## 📜 License
 This project is created for educational and learning purposes.
